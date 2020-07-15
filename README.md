@@ -3,11 +3,9 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
-    <title> CSS 3: Color</title>
-    <link href="style.css" rel="stylesheet" type="text/css" />
+    <
   </head>
   <body>
-    <script src="script.js"></script>
 
 <h1>New In CSS 3: Color</h1>  
 <br> 
